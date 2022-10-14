@@ -12,6 +12,8 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 
 public class OrderApp {
 
+    //TEST
+
     public static void main(String[] args) {
 //        AppConfig appConfig = new AppConfig();
 //        MemberService memberService = appConfig.memberService();
